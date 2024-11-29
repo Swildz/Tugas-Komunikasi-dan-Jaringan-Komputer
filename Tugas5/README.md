@@ -3,7 +3,7 @@
 ### Tabel Perbandingan Fitur
 
 | Fitur | HTTP/2.0 | HTTP/3.0 (QUIC) | 
-|---|---|---|---|
+|---|---|---|
 | Protokol Transport | TCP | UDP |
 | Multiplexing | Ya | Ya (lebih fleksibel) | 
 | Header Compression | HPACK | QUIC Header Compression | 
