@@ -2,18 +2,18 @@
 
 ### Tabel Perbandingan Fitur
 
-| Fitur | HTTP/2.0 | HTTP/3.0 (QUIC) | Observasi dari Data Wireshark |
+| Fitur | HTTP/2.0 | HTTP/3.0 (QUIC) | 
 |---|---|---|---|
-| Protokol Transport | TCP | UDP | [Masukkan hasil observasi] |
-| Multiplexing | Ya | Ya (lebih fleksibel) | [Masukkan hasil observasi] |
-| Header Compression | HPACK | QUIC Header Compression | [Masukkan hasil observasi] |
-| Keamanan | TLS di atas TCP | TLS terintegrasi | [Masukkan hasil observasi] |
-| Congestion Control | TCP Congestion Control | QUIC Congestion Control | [Masukkan hasil observasi] |
-| 0-RTT | Tidak | Ya (potensial) | [Masukkan hasil observasi] |
-| Server Push | Ya | Ya | [Masukkan hasil observasi] |
-| Waktu Respons | Lebih baik dari HTTP/1.1 | Lebih baik dari HTTP/2.0, terutama dalam jaringan yang tidak stabil | [Masukkan hasil pengukuran] |
-| Throughput | Lebih tinggi dari HTTP/1.1 | Lebih tinggi dari HTTP/2.0, terutama dalam jaringan yang padat | [Masukkan hasil pengukuran] |
-| Kestabilan Koneksi | Lebih baik dari HTTP/1.1 | Lebih baik dari HTTP/2.0, terutama dalam jaringan yang tidak stabil | [Masukkan hasil observasi] |
+| Protokol Transport | TCP | UDP |
+| Multiplexing | Ya | Ya (lebih fleksibel) | 
+| Header Compression | HPACK | QUIC Header Compression | 
+| Keamanan | TLS di atas TCP | TLS terintegrasi | 
+| Congestion Control | TCP Congestion Control | QUIC Congestion Control | 
+| 0-RTT | Tidak | Ya (potensial) | 
+| Server Push | Ya | Ya | 
+| Waktu Respons | Lebih baik dari HTTP/1.1 | Lebih baik dari HTTP/2.0, terutama dalam jaringan yang tidak stabil | 
+| Throughput | Lebih tinggi dari HTTP/1.1 | Lebih tinggi dari HTTP/2.0, terutama dalam jaringan yang padat | 
+| Kestabilan Koneksi | Lebih baik dari HTTP/1.1 | Lebih baik dari HTTP/2.0, terutama dalam jaringan yang tidak stabil | 
 
 ### Analisis Mendalam
 
