@@ -24,10 +24,9 @@
 
 ### Visualisasi Data
 
-[Tambahkan di sini grafik atau diagram yang membandingkan kinerja HTTP/2.0 dan HTTP/3.0, misalnya:
 * Grafik batang untuk membandingkan waktu respons rata-rata
 * Grafik garis untuk menunjukkan perubahan throughput selama waktu tertentu
-* Diagram lingkaran untuk menunjukkan proporsi ukuran header]
+* Diagram lingkaran untuk menunjukkan proporsi ukuran header
 
 ### Kesimpulan
 
