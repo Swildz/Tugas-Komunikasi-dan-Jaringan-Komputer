@@ -24,8 +24,9 @@
 
 1. **Alamat IP dan Nomor Port TCP yang digunakan oleh komputer klien (sumber) untuk mentransfer file ke gaia.cs.umass.edu? (10%)**  
 
-   *Jawaban:*  [Masukkan jawaban di sini, termasuk alamat IP dan nomor port]  
-
+    *Jawaban:* Komputer klien (sumber) menggunakan alamat IP **192.168.1.102** dan nomor port TCP **1161** untuk mentransfer file ke gaia.cs.umass.edu.  Komputer tujuan, gaia.cs.umass.edu, memiliki alamat IP **128.119.245.12** dan menggunakan port TCP **80**.  
+    
+    ![desc for picture ](./assets/answare1.png)
 
 2. **Apa yang digunakan gaia.cs.umass.edu sebagai alamat IP dan nomor port untuk menerima file? (Lampirkan tangkapan layar tampilan Wireshark Anda) (10%)**  
 
