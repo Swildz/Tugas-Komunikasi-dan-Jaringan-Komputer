@@ -47,7 +47,7 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
 
     _Tangkapan Layar:_ [Masukkan gambar tangkapan layar di sini]
 
-        ![The SYN flag is set to 1 and it indicates that this segment is a SYN segment. ](./assets/answare3.png)
+    ![The SYN flag is set to 1 and it indicates that this segment is a SYN segment.](./assets/answare3.png)
 
 4.  **Berapakah nomor urut segmen SYNACK yang dikirim oleh gaia.cs.umass.edu ke komputer klien sebagai balasan terhadap SYN? Berapakah nilai bidang ACKnowledgement di segmen SYNACK? Bagaimana gaia.cs.umass.edu menentukan nilai tersebut? Apa yang ada di segmen tersebut yang mengidentifikasi segmen sebagai segmen SYNACK? (Lampirkan tangkapan layar tampilan Wireshark Anda) (10%)**
 
@@ -61,8 +61,7 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
         the sequence number of the SYN segment initiated by the client computer is 0.). ]
 
             _Tangkapan Layar:_
-        ![The SYN flag and Acknowledgement flag in the segment are set to 1 and they indicate that this segment is a SYNACK segment. ]
-        (./assets/answare4.png)
+    [The SYN flag and Acknowledgement flag in the segment are set to 1 and they indicate that this segment is a SYNACK segment.](./assets/answare4.png)
 
 5.  **Berapakah nomor urut segmen TCP yang berisi perintah HTTP POST? Perhatikan bahwa untuk menemukan perintah POST, Anda perlu menggali ke dalam bidang konten paket di bagian bawah jendela Wireshark, mencari segmen dengan "POST" di dalam bidang DATANYA. (Lampirkan tangkapan layar tampilan Wireshark Anda) (15%)**
 
