@@ -47,7 +47,7 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
 
     _Tangkapan Layar:_ [Masukkan gambar tangkapan layar di sini]
 
-        ![](./assets/answare3.png)
+        ![The SYN flag is set to 1 and it indicates that this segment is a SYN segment. ](./assets/answare3.png)
 
 4.  **Berapakah nomor urut segmen SYNACK yang dikirim oleh gaia.cs.umass.edu ke komputer klien sebagai balasan terhadap SYN? Berapakah nilai bidang ACKnowledgement di segmen SYNACK? Bagaimana gaia.cs.umass.edu menentukan nilai tersebut? Apa yang ada di segmen tersebut yang mengidentifikasi segmen sebagai segmen SYNACK? (Lampirkan tangkapan layar tampilan Wireshark Anda) (10%)**
 
