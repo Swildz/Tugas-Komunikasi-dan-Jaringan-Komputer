@@ -118,10 +118,7 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
 
 7.  **Berapakah panjang masing-masing dari enam segmen TCP pertama? (Lampirkan tangkapan layar tampilan Wireshark Anda) (15%)**
 
-        _Jawaban:_ [
-
-    Solution: Length of the first TCP segment (containing the HTTP POST): 565 bytes
-    Length of each of the other five TCP segments: 1460 bytes (MSS)
-    ]  
+        _Jawaban:_ [Solution: Length of the first TCP segment (containing the HTTP POST): 565 bytes
+                    Length of each of the other five TCP segments: 1460 bytes (MSS)]  
      _Tangkapan Layar:_
     ![Figure 7: Lengths of segments 1 - 6 ](assets/answare7.png)
