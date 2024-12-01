@@ -113,8 +113,8 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
             EstimatedRTT = 0.875 * 0.0558 + 0.125 * 0.18964 = 0.0725
             second
 
-            ![Figure 6.1 Segements 1 - 6](assets/answare6.1.png)
-            ![Figure 6.2 ACKs Segements 1 - 6](assets/answare6.2.png)
+    ![Figure 6.1 Segements 1 - 6](assets/answare6.1.png)
+    ![Figure 6.2 ACKs Segements 1 - 6](assets/answare6.2.png)
 
 7.  **Berapakah panjang masing-masing dari enam segmen TCP pertama? (Lampirkan tangkapan layar tampilan Wireshark Anda) (15%)**
 
