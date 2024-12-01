@@ -15,11 +15,9 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
 **Waktu/Jam:** 13:00-17:00 (4 jam)  
 **Hari / Tgl:** Senin, 2 Desember 2024
 
-## Pertanyaan (berdasarkan file trace tcp-ethereal-trace-1)
+## Question  below are based on the trace file tcp-ethereal-trace-1 in in http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
 
-**Petunjuk:** Jawaban berikut berdasarkan file trace `tcp-ethereal-trace-1` yang terdapat di `http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip`
-
-**Jawab pertanyaan berikut untuk segmen TCP:**
+**Answer the following questions for the TCP segments:**
 
 1.  **What is the IP address and TCP port number used by your client computer (source) to transfer the file to gaia.cs.umass.edu? (10%)**
 
