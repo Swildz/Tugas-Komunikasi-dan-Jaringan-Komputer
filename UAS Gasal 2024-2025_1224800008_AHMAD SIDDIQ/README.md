@@ -15,7 +15,8 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
 **Waktu/Jam:** 13:00-17:00 (4 jam)  
 **Hari / Tgl:** Senin, 2 Desember 2024
 
-## Question  below are based on the trace file tcp-ethereal-trace-1 in in http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
+## Question  below are based on the trace file tcp-ethereal-trace-1 in in 
+http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
 
 **Answer the following questions for the TCP segments:**
 
@@ -107,7 +108,7 @@ _Kampus PENS Jl. Raya ITS Keputih Sukolilo Surabaya 60111_
 
     ![Figure 6.1 Segements 1 - 6](assets/answare6.1.png)
     ![Figure 6.2 ACKs Segements 1 - 6](assets/answare6.2.png)
-    ![Figure Round Trip Time Graph ](assets/answare6.3.png)
+    ![Figure Round Trip Time Graph ](assets/6.3.png)
 
 7.  **What is the length of each of the first six TCP segments?(Attach the screenshot of your Wireshark's display) (15%)**
 
