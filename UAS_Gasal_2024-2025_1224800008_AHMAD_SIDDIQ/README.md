@@ -118,4 +118,4 @@ http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
     ![TCP  FLOWS](assets/answare7.1.png)
 
 # Video of answer from number 7
-![Video of answar no 7](https://youtu.be/XYYdfF0duGw)
+[![Watch the video](https://img.youtube.com/vi/XYYdfF0duGw/0.jpg)](https://youtu.be/XYYdfF0duGw)
