@@ -129,3 +129,6 @@ server {
 - RFC 1035 (DNS Implementasi)
 - RFC 4034 (DNSSEC)
 - IANA DNS Parameters
+
+[konfiguasi resolver dns](./assets/konfigurasi_resolver_dns.png)
+[konfiguasi set proxy](./assets/proxy_set.png)

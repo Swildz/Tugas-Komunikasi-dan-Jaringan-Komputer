@@ -66,3 +66,6 @@ mail {
 ## Referensi
 - RFC 5321 (SMTP)
 - Dokumentasi Resmi Nginx
+
+[Dokumentasi Konfigurasi Nginx](./assets/konfigurasi_smtp_nginx.png)
+[Attech for smtp konfigutasi](./assets/host_smtp.png)
