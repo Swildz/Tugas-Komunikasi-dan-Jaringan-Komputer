@@ -21,3 +21,6 @@
 
 # EXAM
 [EXAM](UAS_Gasal_2024-2025_1224800008_AHMAD_SIDDIQ/README.md)
+
+# Video of answer from number 7
+![Video of answar no 7](https://youtu.be/XYYdfF0duGw)

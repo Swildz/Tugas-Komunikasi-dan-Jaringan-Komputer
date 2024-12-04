@@ -117,4 +117,5 @@ http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
     ![Figure 7: Lengths of segments 1 - 6 ](assets/answare7.png)
     ![TCP  FLOWS](assets/answare7.1.png)
 
-    [Video of answar no 7](https://youtu.be/XYYdfF0duGw)
+# Video of answer from number 7
+![Video of answar no 7](https://youtu.be/XYYdfF0duGw)
