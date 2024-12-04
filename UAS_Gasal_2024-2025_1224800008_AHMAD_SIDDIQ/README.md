@@ -115,3 +115,4 @@ http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip
         Solution: Length of the first TCP segment (containing the HTTP POST): 565 bytes Length of each of the other five TCP segments: 1460 bytes (MSS)
 
     ![Figure 7: Lengths of segments 1 - 6 ](assets/answare7.png)
+    ![TCP  FLOWS](assets/answare7.1.png)
