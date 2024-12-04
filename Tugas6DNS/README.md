@@ -1,4 +1,4 @@
-# Panduan Mendalam Domain Name System (DNS)
+# Domain Name System (DNS)
 
 ## Arsitektur dan Konsep DNS
 

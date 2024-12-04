@@ -1,4 +1,4 @@
-# Panduan Komprehensif SMTP (Simple Mail Transfer Protocol)
+# Komprehensif SMTP (Simple Mail Transfer Protocol)
 
 ## Konsep Dasar SMTP
 
