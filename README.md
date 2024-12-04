@@ -14,10 +14,10 @@
 [Task 5](Tugas5/README.md)
 
 # Domain Name System (DNS)
-[Task 6](Tugas6/README.md)
+[Task 6](Tugas6DNS/README.md)
 
 # Komprehensif SMTP (Simple Mail Transfer Protocol)
-[Task 7](Tugas7/README.md)
+[Task 7](Tugas7SMTP/README.md)
 
 # EXAM
 [EXAM](UAS_Gasal_2024-2025_1224800008_AHMAD_SIDDIQ/README.md)
